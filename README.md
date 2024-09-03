@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0564-find-the-closest-palindrome](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0564-find-the-closest-palindrome) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Stack
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
 |  |
