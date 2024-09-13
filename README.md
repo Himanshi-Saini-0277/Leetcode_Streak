@@ -42,6 +42,7 @@
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2035-count-sub-islands) |
@@ -104,6 +105,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Linked List
 |  |
@@ -120,6 +122,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Counting
