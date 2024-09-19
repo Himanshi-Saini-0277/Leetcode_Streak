@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0564-find-the-closest-palindrome) |
 | [2155-find-missing-observations](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2155-find-missing-observations) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0564-find-the-closest-palindrome) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -156,4 +158,16 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0179-largest-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0241-different-ways-to-add-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
