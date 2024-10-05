@@ -17,6 +17,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -254,5 +256,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
