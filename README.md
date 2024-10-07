@@ -25,6 +25,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
@@ -32,6 +33,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
 |  |
 | ------- |
