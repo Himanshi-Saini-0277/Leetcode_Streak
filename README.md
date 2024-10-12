@@ -83,6 +83,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2411-spiral-matrix-iv) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -100,6 +101,7 @@
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
@@ -164,6 +166,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
 |  |
 | ------- |
@@ -203,6 +206,7 @@
 | [0179-largest-number](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1256-rank-transform-of-an-array) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
@@ -210,6 +214,7 @@
 | [0179-largest-number](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -275,6 +280,7 @@
 | [0567-permutation-in-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
