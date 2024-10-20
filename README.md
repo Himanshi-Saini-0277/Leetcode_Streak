@@ -21,6 +21,7 @@
 | [0567-permutation-in-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -40,6 +41,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0241-different-ways-to-add-parentheses) |
+| [1197-parsing-a-boolean-expression](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
