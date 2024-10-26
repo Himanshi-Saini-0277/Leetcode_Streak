@@ -56,6 +56,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0988-flip-equivalent-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -72,6 +73,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2035-count-sub-islands) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
@@ -82,6 +84,7 @@
 | [0988-flip-equivalent-binary-trees](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0988-flip-equivalent-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Array
@@ -113,6 +116,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2755-extra-characters-in-a-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2755-extra-characters-in-a-string) |
@@ -146,6 +150,7 @@
 | [0133-clone-graph](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0133-clone-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2035-count-sub-islands) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Union Find
