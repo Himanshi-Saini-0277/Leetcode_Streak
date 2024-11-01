@@ -22,6 +22,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1197-parsing-a-boolean-expression) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1667-find-kth-bit-in-nth-binary-string) |
