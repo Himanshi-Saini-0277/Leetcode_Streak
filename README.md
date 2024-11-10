@@ -130,6 +130,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2755-extra-characters-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
 |  |
@@ -250,6 +251,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3394-minimum-array-end) |
 ## Counting
 |  |
@@ -365,6 +367,7 @@
 | ------- |
 | [0567-permutation-in-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
