@@ -102,6 +102,7 @@
 | [0729-my-calendar-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1256-rank-transform-of-an-array) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -222,6 +224,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -232,6 +235,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1694-make-sum-divisible-by-p) |
@@ -366,6 +370,7 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -386,6 +391,7 @@
 | ------- |
 | [0567-permutation-in-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Monotonic Stack
@@ -407,4 +413,8 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
