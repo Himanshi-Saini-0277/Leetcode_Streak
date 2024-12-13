@@ -154,6 +154,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2716-prime-subtraction-operation) |
@@ -190,6 +191,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
@@ -256,6 +258,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2755-extra-characters-in-a-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -273,6 +276,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2411-spiral-matrix-iv) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Binary Search
 |  |
@@ -361,6 +365,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
