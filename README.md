@@ -41,6 +41,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2300-construct-string-with-repeat-limit) |
@@ -71,6 +72,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
@@ -440,6 +442,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2300-construct-string-with-repeat-limit) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2616-maximal-score-after-applying-k-operations) |
