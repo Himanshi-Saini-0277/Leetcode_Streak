@@ -101,6 +101,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0988-flip-equivalent-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -218,6 +219,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0133-clone-graph) |
+| [0820-find-eventual-safe-states](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -265,6 +267,7 @@
 | [0133-clone-graph](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0133-clone-graph) |
 | [0407-trapping-rain-water-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -628,4 +631,8 @@
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
