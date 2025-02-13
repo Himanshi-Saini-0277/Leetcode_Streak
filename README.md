@@ -228,6 +228,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3427-special-array-ii) |
@@ -280,6 +281,7 @@
 | [2803-modify-graph-edge-weights](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2803-modify-graph-edge-weights) |
 | [2868-continuous-subarrays](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
 |  |
@@ -406,6 +408,7 @@
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
