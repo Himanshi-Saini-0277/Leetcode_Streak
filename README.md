@@ -8,6 +8,7 @@
 | [0539-minimum-time-difference](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0564-find-the-closest-palindrome) |
 | [0670-maximum-swap](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0670-maximum-swap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1477-product-of-the-last-k-numbers) |
 | [2155-find-missing-observations](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2716-prime-subtraction-operation) |
@@ -162,6 +163,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1524-string-matching-in-an-array) |
@@ -438,6 +440,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -600,6 +603,7 @@
 | [0729-my-calendar-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0859-design-circular-deque) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
@@ -696,4 +700,8 @@
 | [0820-find-eventual-safe-states](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
