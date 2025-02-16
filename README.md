@@ -174,6 +174,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -672,6 +673,7 @@
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Enumeration
