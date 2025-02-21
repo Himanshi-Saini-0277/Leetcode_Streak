@@ -98,6 +98,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0988-flip-equivalent-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -120,6 +121,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0988-flip-equivalent-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1484-linked-list-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1558-course-schedule-iv) |
@@ -139,6 +141,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0988-flip-equivalent-binary-trees) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -310,6 +313,7 @@
 | [0787-sliding-puzzle](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0854-making-a-large-island) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -374,6 +378,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1502-construct-k-palindrome-strings) |
@@ -615,6 +620,7 @@
 | [0729-my-calendar-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0859-design-circular-deque) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2434-design-a-number-container-system) |
