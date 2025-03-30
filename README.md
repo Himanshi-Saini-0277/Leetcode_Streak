@@ -31,6 +31,7 @@
 | [0539-minimum-time-difference](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0952-word-subsets) |
@@ -434,6 +435,7 @@
 | [0432-all-oone-data-structure](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0768-partition-labels](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -648,6 +650,7 @@
 | [0179-largest-number](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0670-maximum-swap) |
+| [0768-partition-labels](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1304-longest-happy-string) |
@@ -755,6 +758,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
