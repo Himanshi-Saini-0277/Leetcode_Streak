@@ -23,6 +23,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
@@ -80,6 +81,7 @@
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3195-separate-black-and-white-balls) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -707,6 +709,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2554-minimum-total-distance-traveled) |
 | [2755-extra-characters-in-a-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2755-extra-characters-in-a-string) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Recursion
 |  |
 | ------- |
