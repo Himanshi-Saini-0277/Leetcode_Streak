@@ -31,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0241-different-ways-to-add-parentheses) |
