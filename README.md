@@ -300,6 +300,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2792-neighboring-bitwise-xor) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3001-apply-operations-to-maximize-score) |
@@ -511,6 +512,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -843,6 +845,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
