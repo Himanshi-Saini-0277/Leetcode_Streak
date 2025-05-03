@@ -208,6 +208,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1002-maximum-width-ramp) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1325-path-with-maximum-probability) |
@@ -715,6 +716,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1917-maximum-average-pass-ratio) |
