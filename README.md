@@ -91,6 +91,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -322,6 +323,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -763,6 +765,7 @@
 | [2681-put-marbles-in-bags](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3001-apply-operations-to-maximize-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
@@ -784,6 +787,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2554-minimum-total-distance-traveled) |
 | [2755-extra-characters-in-a-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2755-extra-characters-in-a-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3630-total-characters-in-string-after-transformations-ii) |
