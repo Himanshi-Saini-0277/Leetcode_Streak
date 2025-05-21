@@ -198,6 +198,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0368-largest-divisible-subset) |
@@ -475,6 +476,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0854-making-a-large-island) |
@@ -502,6 +504,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0133-clone-graph) |
 | [0432-all-oone-data-structure](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0567-permutation-in-string) |
