@@ -210,6 +210,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0179-largest-number) |
 | [0368-largest-divisible-subset](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0407-trapping-rain-water-ii) |
@@ -783,6 +784,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0670-maximum-swap) |
