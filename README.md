@@ -13,6 +13,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -815,6 +816,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1917-maximum-average-pass-ratio](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
