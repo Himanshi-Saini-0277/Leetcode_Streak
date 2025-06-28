@@ -303,6 +303,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2232-adding-spaces-to-a-string) |
@@ -444,6 +445,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2164-two-best-non-overlapping-events) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2434-design-a-number-container-system) |
@@ -590,6 +592,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2107-find-unique-binary-string) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -802,6 +805,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
