@@ -170,6 +170,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1484-linked-list-in-binary-tree) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -205,6 +206,7 @@
 | [2035-count-sub-islands](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -340,6 +342,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2465-shifting-letters-ii) |
@@ -782,6 +785,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2509-minimize-xor) |
