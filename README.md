@@ -258,6 +258,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0906-walking-robot-simulation) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1002-maximum-width-ramp) |
@@ -780,6 +781,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -941,6 +943,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
