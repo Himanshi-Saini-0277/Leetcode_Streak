@@ -440,6 +440,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3791-fruits-into-baskets-iii) |
 ## Graph
 |  |
 | ------- |
@@ -740,6 +741,7 @@
 | [3427-special-array-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3791-fruits-into-baskets-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1049,6 +1051,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3790-fruits-into-baskets-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1058,6 +1061,7 @@
 | [2434-design-a-number-container-system](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3791-fruits-into-baskets-iii) |
 ## Queue
 |  |
 | ------- |
