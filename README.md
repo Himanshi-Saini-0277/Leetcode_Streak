@@ -7,6 +7,7 @@
 | [0231-power-of-two](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0564-find-the-closest-palindrome) |
@@ -805,6 +806,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1008,6 +1010,7 @@
 | [0231-power-of-two](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0342-power-of-four) |
 | [1197-parsing-a-boolean-expression](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2050-count-good-numbers) |
