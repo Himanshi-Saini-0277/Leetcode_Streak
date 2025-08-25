@@ -256,6 +256,7 @@
 | [0368-largest-divisible-subset](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0416-partition-equal-subset-sum) |
+| [0498-diagonal-traverse](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -589,6 +590,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0945-snakes-and-ladders) |
@@ -708,6 +710,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0498-diagonal-traverse) |
 | [0906-walking-robot-simulation](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
