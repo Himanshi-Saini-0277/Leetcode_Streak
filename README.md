@@ -320,6 +320,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -678,6 +679,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -976,6 +978,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
