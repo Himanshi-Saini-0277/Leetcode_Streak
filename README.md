@@ -78,6 +78,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1006-vowel-spellchecker](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1160-letter-tile-possibilities) |
@@ -290,6 +291,7 @@
 | [0945-snakes-and-ladders](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1002-maximum-width-ramp) |
+| [1006-vowel-spellchecker](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1006-vowel-spellchecker) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -665,6 +667,7 @@
 | [0940-fruit-into-baskets](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1006-vowel-spellchecker](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1006-vowel-spellchecker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
