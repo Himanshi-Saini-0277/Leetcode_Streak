@@ -555,6 +555,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3678-design-task-manager) |
 ## Shortest Path
 |  |
 | ------- |
@@ -744,6 +745,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1141,6 +1143,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3678-design-task-manager) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1159,6 +1162,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2868-continuous-subarrays) |
+| [3678-design-task-manager](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3791-fruits-into-baskets-iii) |
 ## Queue
