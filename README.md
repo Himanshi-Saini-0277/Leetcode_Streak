@@ -157,6 +157,7 @@
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
@@ -490,6 +491,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3797-design-spreadsheet) |
 ## Graph
 |  |
 | ------- |
@@ -654,6 +656,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -749,6 +752,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -1144,6 +1148,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3797-design-spreadsheet) |
 ## Segment Tree
 |  |
 | ------- |
