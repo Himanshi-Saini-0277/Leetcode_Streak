@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0326-power-of-three) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0241-different-ways-to-add-parentheses) |
@@ -669,6 +671,7 @@
 | [0037-sudoku-solver](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0133-clone-graph) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0166-fraction-to-recurring-decimal) |
 | [0432-all-oone-data-structure](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0594-longest-harmonious-subsequence) |
