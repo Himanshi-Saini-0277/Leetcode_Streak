@@ -28,6 +28,7 @@
 | [1500-count-largest-group](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1642-water-bottles](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2050-count-good-numbers) |
@@ -776,6 +777,7 @@
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0498-diagonal-traverse) |
 | [0906-walking-robot-simulation](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0906-walking-robot-simulation) |
+| [1642-water-bottles](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2021-remove-all-occurrences-of-a-substring) |
