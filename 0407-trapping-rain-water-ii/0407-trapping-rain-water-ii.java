@@ -1,44 +1,42 @@
+import java.util.PriorityQueue;
+
 class Solution {
-    public int trapRainWater(int[][] height) {
-        int n = height.length;
-        int m = height[0].length;
+    public int trapRainWater(int[][] heightMap) {
+        int m = heightMap.length, n = heightMap[0].length;
+        if (m < 3 || n < 3)
+            return 0;
 
         PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> a[0] - b[0]);
-        boolean[][] vis = new boolean[n][m];
+        boolean[][] visited = new boolean[m][n];
 
-        for (int i = 0; i < n; i++) {
-            vis[i][0] = true;
-            vis[i][m - 1] = true;
-            pq.offer(new int[]{height[i][0], i, 0});
-            pq.offer(new int[]{height[i][m - 1], i, m - 1});
-        }
         for (int i = 0; i < m; i++) {
-            vis[0][i] = true;
-            vis[n - 1][i] = true;
-            pq.offer(new int[]{height[0][i], 0, i});
-            pq.offer(new int[]{height[n - 1][i], n - 1, i});
+            pq.offer(new int[] { heightMap[i][0], i, 0 });
+            pq.offer(new int[] { heightMap[i][n - 1], i, n - 1 });
+            visited[i][0] = visited[i][n - 1] = true;
+        }
+        for (int j = 0; j < n; j++) {
+            pq.offer(new int[] { heightMap[0][j], 0, j });
+            pq.offer(new int[] { heightMap[m - 1][j], m - 1, j });
+            visited[0][j] = visited[m - 1][j] = true;
         }
 
-        int ans = 0;
-        int[] dr = {-1, 0, 1, 0};
-        int[] dc = {0, -1, 0, 1};
+        int result = 0;
+        int[][] directions = { { 0, 1 }, { 1, 0 }, { 0, -1 }, { -1, 0 } };
 
         while (!pq.isEmpty()) {
-            int[] curr = pq.poll();
-            int h = curr[0], r = curr[1], c = curr[2];
+            int[] cell = pq.poll();
+            int height = cell[0], x = cell[1], y = cell[2];
 
-            for (int i = 0; i < 4; i++) {
-                int nr = r + dr[i];
-                int nc = c + dc[i];
-
-                if (nr >= 0 && nr < n && nc >= 0 && nc < m && !vis[nr][nc]) {
-                    ans += Math.max(0, h - height[nr][nc]);
-                    pq.offer(new int[]{Math.max(h, height[nr][nc]), nr, nc});
-                    vis[nr][nc] = true;
+            for (int[] dir : directions) {
+                int nx = x + dir[0], ny = y + dir[1];
+                if (nx >= 0 && ny >= 0 && nx < m && ny < n && !visited[nx][ny]) {
+                    result += Math.max(0, height - heightMap[nx][ny]);
+                    pq.offer(new int[] { Math.max(height, heightMap[nx][ny]), nx, ny });
+                    visited[nx][ny] = true;
                 }
             }
         }
 
-        return ans;
+        return result;
     }
 }
