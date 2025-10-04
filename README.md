@@ -272,6 +272,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0073-set-matrix-zeroes) |
@@ -1016,6 +1017,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1220,6 +1222,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0165-compare-version-numbers) |
 | [0567-permutation-in-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0567-permutation-in-string) |
