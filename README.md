@@ -506,6 +506,7 @@
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -845,6 +846,7 @@
 | [3447-clear-digits](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -916,6 +918,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3639-zero-array-transformation-i) |
