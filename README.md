@@ -330,6 +330,7 @@
 | [1002-maximum-width-ramp](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -993,6 +994,7 @@
 | [0231-power-of-two](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
