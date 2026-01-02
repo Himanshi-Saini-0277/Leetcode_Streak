@@ -340,6 +340,7 @@
 | [0940-fruit-into-baskets](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1018-largest-perimeter-triangle) |
@@ -783,6 +784,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1006-vowel-spellchecker](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1015-smallest-integer-divisible-by-k) |
