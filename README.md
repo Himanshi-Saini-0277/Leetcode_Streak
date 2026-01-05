@@ -399,6 +399,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -742,6 +743,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1975-maximum-matrix-sum) |
 | [2035-count-sub-islands](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -1189,6 +1191,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2140-longest-subsequence-repeated-k-times) |
