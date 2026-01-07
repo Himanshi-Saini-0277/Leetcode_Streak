@@ -229,6 +229,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1484-linked-list-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -264,6 +265,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1396-count-servers-that-communicate) |
@@ -299,6 +301,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
