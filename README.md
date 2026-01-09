@@ -223,6 +223,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -259,6 +260,7 @@
 | [0794-swim-in-rising-water](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -295,6 +297,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -686,6 +689,7 @@
 | [0794-swim-in-rising-water](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0945-snakes-and-ladders) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -789,6 +793,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0797-rabbits-in-forest) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0906-walking-robot-simulation) |
