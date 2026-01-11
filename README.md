@@ -192,6 +192,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0085-maximal-rectangle) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0780-max-chunks-to-make-sorted) |
@@ -320,6 +321,7 @@
 | [0066-plus-one](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0135-candy) |
@@ -741,6 +743,7 @@
 | [0036-valid-sudoku](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0498-diagonal-traverse) |
@@ -1247,6 +1250,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0120-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1484,6 +1488,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
