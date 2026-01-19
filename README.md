@@ -366,6 +366,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -760,6 +761,7 @@
 | [0854-making-a-large-island](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1396-count-servers-that-communicate](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -953,6 +955,7 @@
 | [0731-my-calendar-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0731-my-calendar-ii) |
 | [0794-swim-in-rising-water](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1612-avoid-flood-in-the-city](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1612-avoid-flood-in-the-city) |
@@ -997,6 +1000,7 @@
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1477-product-of-the-last-k-numbers) |
