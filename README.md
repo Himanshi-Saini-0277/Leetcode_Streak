@@ -567,6 +567,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3531-count-covered-buildings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3531-count-covered-buildings) |
@@ -672,6 +673,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -894,6 +896,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3531-count-covered-buildings) |
 | [3548-find-the-count-of-good-integers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -946,6 +949,7 @@
 | [3336-water-bottles-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3447-clear-digits) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -1049,6 +1053,7 @@
 | [2411-spiral-matrix-iv](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -1414,6 +1419,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2868-continuous-subarrays) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3791-fruits-into-baskets-iii) |
@@ -1436,6 +1442,7 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0432-all-oone-data-structure) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
 |  |
 | ------- |
