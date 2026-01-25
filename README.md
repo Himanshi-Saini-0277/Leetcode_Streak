@@ -418,6 +418,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -1171,6 +1172,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2164-two-best-non-overlapping-events) |
@@ -1499,6 +1501,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
