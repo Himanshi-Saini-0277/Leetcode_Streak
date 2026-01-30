@@ -162,6 +162,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -527,6 +528,7 @@
 | [2915-count-of-interesting-subarrays](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3001-apply-operations-to-maximize-score) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -700,6 +702,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2803-modify-graph-edge-weights) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1331,6 +1334,7 @@
 | [2554-minimum-total-distance-traveled](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2554-minimum-total-distance-traveled) |
 | [2755-extra-characters-in-a-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2755-extra-characters-in-a-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1396,6 +1400,7 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2755-extra-characters-in-a-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Design
@@ -1672,5 +1677,6 @@
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
