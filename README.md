@@ -341,6 +341,7 @@
 | [0679-24-game](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0679-24-game) |
 | [0729-my-calendar-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0731-my-calendar-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0759-set-intersection-size-at-least-two) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0787-sliding-puzzle) |
@@ -974,6 +975,7 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0731-my-calendar-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
