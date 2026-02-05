@@ -559,6 +559,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3379-transformed-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3427-special-array-ii) |
@@ -965,6 +966,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3379-transformed-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
