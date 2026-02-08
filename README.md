@@ -224,6 +224,7 @@
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -254,6 +255,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0110-balanced-binary-tree) |
 | [0133-clone-graph](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0133-clone-graph) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -299,6 +301,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
