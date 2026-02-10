@@ -615,6 +615,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3719-longest-balanced-subarray-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -935,6 +936,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3678-design-task-manager) |
+| [3719-longest-balanced-subarray-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3719-longest-balanced-subarray-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1071,6 +1073,7 @@
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3647-zero-array-transformation-iii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
 | ------- |
@@ -1447,6 +1450,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3719-longest-balanced-subarray-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
@@ -1654,6 +1658,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2280-count-good-triplets-in-an-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3719-longest-balanced-subarray-i) |
 ## Combinatorics
 |  |
 | ------- |
