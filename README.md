@@ -99,6 +99,7 @@
 | [0539-minimum-time-difference](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0868-push-dominoes) |
@@ -1514,6 +1515,7 @@
 | [0075-sort-colors](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0165-compare-version-numbers) |
 | [0567-permutation-in-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0868-push-dominoes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1468-check-if-n-and-its-double-exist) |
