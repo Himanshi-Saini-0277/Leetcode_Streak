@@ -392,6 +392,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1364-tuple-with-same-product) |
 | [1390-four-divisors](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1396-count-servers-that-communicate) |
@@ -1128,6 +1129,7 @@
 | [0868-binary-gap](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1435-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1169,6 +1171,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1502-construct-k-palindrome-strings) |
@@ -1222,6 +1225,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1877-minimize-maximum-pair-sum-in-array) |
