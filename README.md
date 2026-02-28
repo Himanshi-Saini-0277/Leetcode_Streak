@@ -37,6 +37,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -971,6 +972,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2048-build-array-from-permutation) |
@@ -1136,6 +1138,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1435-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1940-maximum-xor-for-each-query) |
