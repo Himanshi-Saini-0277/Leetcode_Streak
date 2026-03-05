@@ -135,6 +135,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
