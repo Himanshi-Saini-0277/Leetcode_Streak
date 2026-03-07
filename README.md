@@ -139,6 +139,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1923-sentence-similarity-iii) |
@@ -1388,6 +1389,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -1588,6 +1590,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1813-maximum-erasure-value) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2394-count-subarrays-with-score-less-than-k) |
