@@ -143,6 +143,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1923-sentence-similarity-iii) |
+| [1980-find-unique-binary-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1980-find-unique-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -448,6 +449,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -896,6 +898,7 @@
 | [1813-maximum-erasure-value](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1980-find-unique-binary-string) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2023-design-movie-rental-system) |
@@ -1642,6 +1645,7 @@
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1980-find-unique-binary-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2140-longest-subsequence-repeated-k-times) |
