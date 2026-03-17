@@ -434,6 +434,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1694-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1755-defuse-the-bomb](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1813-maximum-erasure-value) |
@@ -828,6 +829,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1628-count-submatrices-with-all-ones) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1895-largest-magic-square) |
@@ -1261,6 +1263,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -1335,6 +1338,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1877-minimize-maximum-pair-sum-in-array) |
