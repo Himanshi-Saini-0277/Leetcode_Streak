@@ -1009,6 +1009,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2048-build-array-from-permutation) |
+| [2069-walking-robot-simulation-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -1532,6 +1533,7 @@
 | [1622-fancy-sequence](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2434-design-a-number-container-system) |
