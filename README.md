@@ -645,6 +645,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3643-flip-square-submatrix-vertically) |
 | [3647-zero-array-transformation-iii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -1039,6 +1040,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -1766,6 +1768,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/2280-count-good-triplets-in-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Himanshi-Saini-0277/Leetcode_Streak/tree/master/3721-longest-balanced-subarray-ii) |
 ## Combinatorics
